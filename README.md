@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WhoTheFAmI69
 - 👀 I’m interested in programming and cybersecurity.
-- 🌱 I’m currently learning CE.
+- 🌱 I’m currently learning CSE.
 - 💞️ I’m looking to collaborate on life.
 - 📫 How to reach me You don't.
 - 😄 Pronouns: He/Him.
